@@ -27,17 +27,6 @@ MindSift utiliza un sofisticado pipeline de IA para:
    - Descarta automáticamente notificaciones no prioritarias
    - Mantiene un centro de notificaciones limpio
 
-## Implementación Técnica 💻
-
-Nuestra stack incluye:
-
-- **Frontend**: Next.js con TypeScript para un dashboard responsive
-- **Backend**: Python con FastAPI para endpoints robustos
-- **Procesamiento IA**: 
-  - LangChain para orquestar flujos de trabajo de IA
-  - Embeddings vectoriales para coincidencia de similitud
-  - Ingeniería de prompts personalizada para categorización precisa
-
 ## Características Principales ✨
 
 - Procesamiento de notificaciones en tiempo real
