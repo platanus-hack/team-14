@@ -4,7 +4,7 @@
     // descripción de una frase y directa al grano de la solución
     "oneliner": "Filtro absoluto de notificaciones",
     // url al logo de proyecto. mínimo 200x200, png. puede estar hosteado en el mismo repo.
-    "logo_url": "blob:https://docs.google.com/8ad36393-e691-41f7-bd5a-8e86feb6762f",
+    "logo_url": "https://raw.githubusercontent.com/platanus-hack/team-14/refs/heads/main/logo.png",
     // url para acceder a su app. si es apk u otro, link de descarga directa.
     "app_url": "https://mind-sift-front.vercel.app/"
 }
